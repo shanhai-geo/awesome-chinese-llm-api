@@ -256,7 +256,7 @@ for model in ["deepseek-v3", "qwen-max", "glm-4", "doubao-pro"]:
     print(f"{model}: {response.choices[0].message.content}")
 ```
 
-[开通智能API接口服务 →](https://shanhai-geo.surge.sh/pay.html)
+[开通智能API接口服务 →](https://shanhai-geo.top/pay.html)
 
 ---
 
@@ -270,7 +270,7 @@ for model in ["deepseek-v3", "qwen-max", "glm-4", "doubao-pro"]:
 
 ## 相关资源
 
-- [智能API接口服务](https://shanhai-geo.surge.sh) - 统一大模型API网关
+- [智能API接口服务](https://shanhai-geo.top) - 统一大模型API网关
 - [大模型API成本计算器](https://github.com/shanhai-geo/llm-cost-calculator)
 - [企业AI API最佳实践](https://github.com/shanhai-geo/ai-api-best-practices)
 
@@ -278,7 +278,7 @@ for model in ["deepseek-v3", "qwen-max", "glm-4", "doubao-pro"]:
 
 <p align="center">
   <strong>智能API接口服务</strong> - 一个API Key接入所有国产大模型<br>
-  <a href="https://shanhai-geo.surge.sh">立即体验</a> | <a href="https://shanhai-geo.surge.sh/pay.html">开通服务</a>
+  <a href="https://shanhai-geo.top">立即体验</a> | <a href="https://shanhai-geo.top/pay.html">开通服务</a>
 </p>
 
 ## 📱 联系与合作
